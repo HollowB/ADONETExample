@@ -3370,11 +3370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\ADONETExample.csproj",
+      "projectUniqueName": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\ADONETExample\\ADONETExample.csproj",
       "projectName": "ADONETExample",
-      "projectPath": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\ADONETExample.csproj",
+      "projectPath": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\ADONETExample\\ADONETExample.csproj",
       "packagesPath": "C:\\Users\\GrammDeki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\obj\\",
+      "outputPath": "C:\\Users\\GrammDeki\\source\\repos\\ADONETExample\\ADONETExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

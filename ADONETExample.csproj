@@ -10,6 +10,12 @@
 	<PropertyGroup>
 		<DefineConstants>PC</DefineConstants>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="DataReader\**" />
+	  <EmbeddedResource Remove="DataReader\**" />
+	  <None Remove="DataReader\**" />
+	</ItemGroup>
 	
 	<ItemGroup>
 		<None Update="appsettings.json">
